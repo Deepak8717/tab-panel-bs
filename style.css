@@ -1,0 +1,23 @@
+body{
+	padding:10px;
+}
+
+
+
+#exTab1 .tab-content{
+	color:#fff;
+	background:#428bca;
+	padding:5px 15px;
+}
+
+#exTab2 .tab-content{
+	color:#fff;
+	background:#428bca;
+	padding:5px 15px;
+}
+
+#exTab3 .tab-content{
+	color:#fff;
+	background:#428bca;
+	padding:5px 15px;
+}
